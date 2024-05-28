@@ -1,5 +1,5 @@
 ## Olá guys 😃
 
-- Sou a Mia
-- Gosto de programas e faço direto 🙃
-- Estou om o Alura
+- Meu nome é Breno
+"faço programas online"
+ _Sou aluno do EM e estudo ALURA_
